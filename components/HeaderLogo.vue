@@ -1,3 +1,3 @@
 <template>
-     <span class="text-black font-mono tracking-[15px] text-[24px] sm:text-[16px]">Carsten Stahl</span>
+     <span class="text-black font-mono tracking-[15px] text-[24px] md:text-[16px]">Carsten Stahl</span>
 </template>
