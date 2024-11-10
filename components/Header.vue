@@ -1,0 +1,16 @@
+<template>
+     <div class="flex w-screen h-[57px] justify-center shadow-md top-0 sticky z-40 bg-[#ffffff]">
+    <div class="flex w-[70%] justify-between items-center">
+      <a href="/portfolio-website/"><HeaderLogo>
+      </HeaderLogo></a>
+      <!-- <div class="flex w-1/4 justify-between items-center sm:hidden">
+        <HeaderLink to="/portfolio-website/">home</HeaderLink>
+        <HeaderLink to="/portfolio-website/projectsLanding">
+          projects
+        </HeaderLink>
+        <HeaderLink to="/portfolio-website/notesLanding">notes</HeaderLink>
+        <HeaderLink to="/portfolio-website/about">about</HeaderLink>
+      </div> -->
+    </div>
+  </div>
+</template>

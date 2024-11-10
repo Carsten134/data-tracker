@@ -1,0 +1,3 @@
+<template>
+    <a href={to} class="font-regular text-[16px] hover:bg-gradient-to-t hover:text-[#FF5C0000] transition-all ease-in-out hover:from-theme-pink-500 hover:to-theme-orange-500 hover:bg-clip-text"><slot></slot></a>
+</template>
